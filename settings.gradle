@@ -1,0 +1,11 @@
+// Настройки проекта
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = "TrollSound"
+include ':app'
