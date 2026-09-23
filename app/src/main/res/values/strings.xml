@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrollSound</string>
+    <string name="notif_channel">Соединение с сервером</string>
+    <string name="notif_title">TrollSound подключён</string>
+    <string name="notif_text">Ожидание команд от сервера</string>
+</resources>
